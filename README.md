@@ -126,30 +126,3 @@ KdKs 9hJh
 Qc8dAd6c KsAsTcTs Js2dKd8c 7dQsAc5d Jh2h3c9c
 4c8h2h6c9c Ah9d6s2cKh Kd9sAs3cQs 7h4s4h8c9h Tc5h6dAc5c
 ```
-
-### Requirements for Implementation
-
-Include a `ReadMe.md` file which documents all known limitations of your solution, in terms of functionality
-implemented, known defects, or considerations how to build and run it.
-
-The code, comments and documentation should be in English.
-
-Your solution also must use `PHP version 8.0`.
-
-## Grading Notes
-
-For extra credit you should do the following (one or more):
-* Use a Functional Programming approach in implementation
-* Support two or, even better, three of the aforementioned game types
-
-Yielding correct results and code readability is more important than the algorithmic complexity of the
-solution.
-## License
-
-At CodeScreen, we strongly value the integrity and privacy of our assessments. As a result, this repository is under exclusive copyright, which means you **do not** have permission to share your solution to this test publicly (i.e., inside a public GitHub/GitLab repo, on Reddit, etc.). <br>
-
-## Submitting your solution
-
-Please push your changes to the `main branch` of this repository. You can push one or more commits. <br>
-
-Once you are finished with the task, please click the `Submit Solution` link on <a href="https://app.codescreen.com/candidate/6384aaed7e1a1e64aaa33237" target="_blank">this screen</a>.
